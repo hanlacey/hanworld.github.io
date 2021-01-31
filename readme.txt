@@ -1,1 +1,1 @@
-https://hanlacey.github.io/hanworld/
+http://www.hanworld.org/
